@@ -1,3 +1,6 @@
 datasciencecoursera
 ===================
 ## This is a markdown file
+## This is a secondary heading
+### This is a tertiary heading
+### This is trallallà
